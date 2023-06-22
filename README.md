@@ -1,3 +1,3 @@
-# https---github.com-ma1ik-Myblog
+# My Blog
 
 ## Simple website about me
